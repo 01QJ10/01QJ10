@@ -1,5 +1,5 @@
-- 👋 Hi, I’m QJ!
-- 👀 I’m majoring in physics, planning to minor in Artificial Intelligence (AI) and statistics!
+- 👋 Hi, I’m Qian Jun (QJ)!
+- 👀 I’m majoring in physics, minoring in statistics, and planning to do a second major in Data Science & Analytics!
 - 🌱 I’m currently learning machine learning using PyTorch & SkLearn, JavaScript, HTML & CSS!
 
 <!---
